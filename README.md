@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist & Software Developer
 -----------------------------------
 
-Graduate Computer Science student from UWE Bristol. Software engineer with data science experience. 
-Currently interested and working on integrating Model Context Protocol (MCP) and local LLMs. 
-Tech Stack I often use: • Blazor • C# • Python • PyTorch • Azure • Docker 
-Current Projects: Local LLM deployment with Ollama, MCP server development, sign language recognition with PyTorch 
+Graduate Computer Science student from UWE Bristol. Software engineer with data science experience.  
+Currently interested and working on integrating Model Context Protocol (MCP) and local LLMs.  
+Tech Stack I often use: • Blazor • C# • Python • PyTorch • Azure • Docker  
+Current Projects: Local LLM deployment with Ollama, MCP server development, sign language recognition with PyTorch  
 
-🎸 I sometimes play Guitar and produce music using Logic Pro 
-📸 I love shooting on film with cameras older than my dad. 
-📍 Bristol, UK
+🎸 I sometimes play Guitar and produce music using Logic Pro  
+📸 I love shooting on film with cameras older than my dad  
+📍 Bristol, UK  
 
 * 🌍  I'm based in Bristol, England, United Kingdom
 * 🖥️  See my portfolio at [xofvr](http://xofvr.github.io/portfolio/)

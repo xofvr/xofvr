@@ -14,7 +14,7 @@ Current Projects: Local LLM deployment with Ollama, MCP server development, sign
 📍 Bristol, UK  
 
 * 🌍  I'm based in Bristol, England, United Kingdom
-* 🖥️  See my portfolio at [xofvr](http://xofvr.github.io/portfolio/)
+* 🖥️  See my portfolio at [xofvr](https://xofvr.github.io/personal-website)
 * ✉️  You can contact me at [farhan.shakeel1404@gmail.com](mailto:farhan.shakeel1404@gmail.com)
 * 🧠  I'm learning about Model Context Protocol (MCP)
 
